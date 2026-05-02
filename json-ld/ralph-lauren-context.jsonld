@@ -1,0 +1,59 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "goodrelations": "http://purl.org/goodrelations/v1#",
+    "rl": "https://www.ralphlauren.com/vocab#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "Product": "schema:Product",
+    "ClothingProduct": "schema:ClothingProduct",
+    "Brand": "schema:Brand",
+    "Offer": "schema:Offer",
+    "ProductCollection": "schema:ProductCollection",
+    "Organization": "schema:Organization",
+    "Store": "schema:Store",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "sku": "schema:sku",
+    "gtin": "schema:gtin",
+    "brand": {
+      "@id": "schema:brand",
+      "@type": "@id"
+    },
+    "category": "schema:category",
+    "color": "schema:color",
+    "size": "schema:size",
+    "material": "schema:material",
+    "gender": "schema:targetPopulation",
+    "image": {
+      "@id": "schema:image",
+      "@type": "@id"
+    },
+    "url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "price": {
+      "@id": "schema:price",
+      "@type": "xsd:decimal"
+    },
+    "priceCurrency": "schema:priceCurrency",
+    "availability": "schema:availability",
+    "inStock": {
+      "@id": "schema:itemCondition",
+      "@type": "xsd:boolean"
+    },
+    "collection": {
+      "@id": "schema:isPartOf",
+      "@type": "@id"
+    },
+    "season": "rl:season",
+    "lifestyle": "rl:lifestyle",
+    "storeLocation": {
+      "@id": "schema:location",
+      "@type": "@id"
+    }
+  }
+}

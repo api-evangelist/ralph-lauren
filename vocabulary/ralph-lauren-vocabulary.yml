@@ -1,0 +1,103 @@
+vocabulary:
+  name: Ralph Lauren Vocabulary
+  description: >-
+    Domain vocabulary for Ralph Lauren's luxury fashion and lifestyle brand
+    ecosystem, covering product classification, retail concepts, and brand
+    identity terminology.
+  version: '1.0'
+  created: '2026-05-02'
+  terms:
+    - term: Lifestyle Brand
+      definition: >-
+        A brand that markets products tied to a particular way of living,
+        set of values, or aspirational identity. Ralph Lauren pioneered
+        the lifestyle brand model, selling not just clothing but a vision
+        of the American preppy lifestyle.
+      tags:
+        - Brand
+        - Core
+
+    - term: Polo Ralph Lauren
+      definition: >-
+        The flagship brand of Ralph Lauren Corporation, known for polo
+        shirts, casual sportswear, and classic American aesthetic. The
+        iconic polo player logo is one of the most recognized fashion symbols.
+      tags:
+        - Brand
+        - Core
+
+    - term: Premium Lifestyle Product
+      definition: >-
+        A product positioned in the luxury or aspirational segment, carrying
+        a premium price point relative to mass-market alternatives. Ralph
+        Lauren's portfolio spans apparel, footwear, accessories, home,
+        fragrances, and hospitality.
+      tags:
+        - Product
+        - Luxury
+
+    - term: Affiliate Program
+      definition: >-
+        Ralph Lauren's publisher partnership program that allows website
+        operators and content creators to earn commissions by driving sales
+        to ralphlauren.com. Available through Rakuten, Sovrn, and other
+        affiliate networks. Commission rates vary by publisher type (3-6%).
+      tags:
+        - Commerce
+        - Partnerships
+
+    - term: Product Feed
+      definition: >-
+        A structured data file (typically CSV or XML) provided to affiliate
+        partners listing Ralph Lauren's current product catalog with SKUs,
+        images, prices, and deep links.
+      tags:
+        - Commerce
+        - Data
+
+    - term: Ask Ralph
+      definition: >-
+        An AI-powered conversational shopping assistant launched by Ralph
+        Lauren in September 2025, built on Microsoft Azure OpenAI. Uses
+        natural language processing to provide personalized styling
+        suggestions and product recommendations.
+      tags:
+        - AI
+        - Shopping
+
+    - term: Collection
+      definition: >-
+        A curated group of products released together, typically aligned
+        to a fashion season (Spring/Summer, Fall/Winter), a theme, or a
+        collaboration. Collections define Ralph Lauren's seasonal product
+        strategy.
+      tags:
+        - Product
+        - Fashion
+
+    - term: SKU
+      definition: >-
+        Stock Keeping Unit. A unique identifier for a specific product
+        variant (size, color, style combination) in Ralph Lauren's
+        inventory management system.
+      tags:
+        - Commerce
+        - Inventory
+
+    - term: Omnichannel Retail
+      definition: >-
+        Ralph Lauren's retail strategy integrating physical stores,
+        ralphlauren.com, mobile apps, and concession departments in
+        department stores into a unified customer experience.
+      tags:
+        - Retail
+        - Strategy
+
+    - term: Heritage Brand
+      definition: >-
+        A brand with deep historical roots and a consistent visual identity
+        maintained over decades. Ralph Lauren, founded in 1967, is considered
+        a heritage brand in American fashion.
+      tags:
+        - Brand
+        - History
