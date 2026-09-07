@@ -47,6 +47,10 @@ modified: '2026-05-02'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: BrandsOverview
+    url: https://corporate.ralphlauren.com/brands
+  - type: InvestorRelations
+    url: https://investor.ralphlauren.com
   - type: DomainSecurity
     url: security/ralph-lauren-domain-security.yml
   - type: LinkedIn
