@@ -1,7 +1,9 @@
 ---
 title: Ralph Lauren's “Ask Ralph” Shows the Problem With AI in ...
 url: https://electricrunwayreport.substack.com/p/ralph-laurens-ask-ralph-shows-the
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ralph Lauren" press release artificial intelligence'
 position: 4
 source: serpapi-google

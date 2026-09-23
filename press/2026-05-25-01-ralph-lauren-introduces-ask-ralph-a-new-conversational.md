@@ -1,7 +1,9 @@
 ---
 title: Ralph Lauren Introduces Ask Ralph, a New Conversational ...
 url: https://corporate.ralphlauren.com/pr_250909_AskRalph.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ralph Lauren" press release artificial intelligence'
 position: 1
 source: serpapi-google

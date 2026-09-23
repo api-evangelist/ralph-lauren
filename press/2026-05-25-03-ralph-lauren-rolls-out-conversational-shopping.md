@@ -1,7 +1,9 @@
 ---
 title: Ralph Lauren Rolls Out Conversational Shopping ...
 url: https://www.pymnts.com/news/artificial-intelligence/2025/ralph-lauren-begins-rollout-ai-powered-conversational-shopping-experience/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ralph Lauren" press release artificial intelligence'
 position: 3
 source: serpapi-google
