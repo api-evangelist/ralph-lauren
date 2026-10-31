@@ -64,38 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ralph Lauren is a global leader in the design, marketing, and distribution of premium lifestyle products across apparel, footwear, accessories, home, fragrances, and hospitality. Brands include Polo Ralph Lauren, Lauren, and Club Monaco.
+Ralph Lauren is a global leader in the design, marketing, and distribution of premium lifestyle products across apparel, footwear, accessories, home, fragrances, and hospitality. The company operates ralphlauren.com, Polo Ralph Lauren, Lauren, Club Monaco, and other brands. No public developer API has been verified; the company participates in affiliate programs via Rakuten and Sovrn Commerce, and uses Microsoft Azure OpenAI for the Ask Ralph AI shopping assistant launched in 2025.
 
-- **Website:** [ralphlauren.com](https://www.ralphlauren.com)
-- **Corporate:** [corporate.ralphlauren.com](https://corporate.ralphlauren.com)
-- **Affiliate Program:** [Sovrn/Rakuten Affiliate Partners](https://www.viglink.com/merchants/887/ralph-lauren-affiliate-program)
+**Areas:** Apparel · Fashion · Lifestyle · Retail · Luxury · E-Commerce · Fortune 500
 
-## Tags
+## Ralph Lauren on APIs.io
 
-Apparel, Fashion, Lifestyle, Retail, Luxury, E-Commerce
+Everything profiled for Ralph Lauren is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ralph-lauren/](https://apis.io/providers/ralph-lauren/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-05-02
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### JSON-LD (1)
 
-No public developer APIs have been verified for Ralph Lauren. The company participates in affiliate programs via Rakuten and Sovrn Commerce providing product feeds, and uses Microsoft Azure OpenAI for the Ask Ralph AI shopping assistant (launched September 2025).
+Linked-data contexts for the provider's vocabulary.
 
-## Artifacts
+- [Ralph Lauren Context](https://apis.io/jsonld/ralph-lauren/ralph-lauren-context/)
 
-### JSON-LD
-| File | Description |
+#### Vocabulary (1)
+
+The provider's domain terms, defined.
+
+- [Ralph Lauren Vocabulary](https://apis.io/vocabularies/ralph-lauren/ralph-lauren-vocabulary/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ralph Lauren Domain Security](https://apis.io/security/ralph-lauren/ralph-lauren-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.ralphlauren.com)
+
+## API Evangelist rating
+
+**Kin Score 8.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
 |---|---|
-| [json-ld/ralph-lauren-context.jsonld](json-ld/ralph-lauren-context.jsonld) | Linked data context for fashion/retail domain |
+| Discoverability | 48.2 |
+| Contract quality | 10.7 |
+| Contract governance | 13.6 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-### Vocabulary
-| File | Description |
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
 |---|---|
-| [vocabulary/ralph-lauren-vocabulary.yml](vocabulary/ralph-lauren-vocabulary.yml) | Luxury fashion and retail domain vocabulary |
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-## Maintainers
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ralph-lauren/](https://apis.io/providers/ralph-lauren/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ralph Lauren: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ralph-lauren/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
